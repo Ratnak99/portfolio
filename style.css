@@ -1,0 +1,40 @@
+h1{
+    color:Blue;
+    font-size: 50px;
+    background-color: aquamarine;
+    text-align: center;
+    border:3px dashed green;
+}
+h2{
+    color:deeppink;
+    font-size: 30px;
+    
+}
+div{
+    background-color: beige;
+    border-style: solid;
+}
+p{
+    color:green;
+    font-size: 18px;
+}
+h3{
+    color:darkmagenta;
+    font-size: 20px;
+}
+.p-blue{
+    color:turquoise;
+}
+#font-size{
+    font-size:30px;
+}
+ol{
+    color:blue;
+font-size: 18px;
+}
+ul{
+    color:brown;
+}
+img{
+    height:250px;
+}
